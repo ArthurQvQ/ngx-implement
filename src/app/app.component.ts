@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { EQimaShadowLevel } from '@qima/ngx-qima'
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ngx-implement';
+  public two: EQimaShadowLevel = EQimaShadowLevel.TWO;
 }

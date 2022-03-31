@@ -1,0 +1,4 @@
+@qimaone:registry=https://europe-npm.pkg.dev/one-dev-4535/qimaone-npm/
+@qima:registry=https://europe-npm.pkg.dev/one-dev-4535/qimaone-npm/
+//europe-npm.pkg.dev/one-dev-4535/qimaone-npm/:_authToken=""
+//europe-npm.pkg.dev/one-dev-4535/qimaone-npm/:always-auth=true
